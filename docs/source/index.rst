@@ -15,3 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   Starfleet was established by the original Starfleet Charter in or
+   around the 2130s as an Earth-based space exploration organization.
