@@ -6,14 +6,11 @@
 pytrek documentation
 ====================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Starfleet was established by the original Starfleet Charter in or
+around the 2130s as an Earth-based space exploration organization.
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Starfleet was established by the original Starfleet Charter in or
-   around the 2130s as an Earth-based space exploration organization.
