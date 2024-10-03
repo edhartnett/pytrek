@@ -9,6 +9,8 @@ pytrek documentation
 Starfleet was established by the original Starfleet Charter in or
 around the 2130s as an Earth-based space exploration organization.
 
+Starfleet is great!
+
 
 .. toctree::
    :maxdepth: 2
