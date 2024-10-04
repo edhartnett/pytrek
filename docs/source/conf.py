@@ -16,6 +16,8 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(0, os.path.abspath('../../src/pytrek'))
+for x in os.walk('../../src'):
+  sys.path.insert(0, x[0])
 
 project = 'pytrek'
 copyright = '2024, Captain Kirk'
