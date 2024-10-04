@@ -12,6 +12,14 @@ pytrek.enterprise module
    :undoc-members:
    :show-inheritance:
 
+pytrek.klingon module
+------------------------
+
+.. automodule:: pytrek.klingon
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
