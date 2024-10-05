@@ -20,6 +20,14 @@ pytrek.klingon module
    :undoc-members:
    :show-inheritance:
 
+pytrek.vulcan module
+------------------------
+
+.. automodule:: pytrek.vulcan
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
