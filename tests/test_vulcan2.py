@@ -1,4 +1,6 @@
 # Test code.
+from pytrek import vulcan
+
 class TestVulcan:
     def test_one(self):
         x = "this"
